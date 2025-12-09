@@ -117,28 +117,18 @@ O conjunto de testes cobre:
 
 > *Obs: o ambiente Android + Appium ainda está sendo finalizado.*
 
-Instalar dependências:
-
-```bash
-npm install
-Iniciar o Appium:
-
-appium
 
 
-Iniciar o emulador:
+🤝 Sobre este projeto
 
-emulator -avd NOME_DO_EMULADOR
+Projeto criado com foco em aprendizado, evolução técnica e demonstração de capacidade em:
 
+Estruturar automação mobile profissional
 
-Executar os testes Android:
+Criar código limpo e escalável
 
-npm run test:android
+Entregar documentação clara
 
+Seguir boas práticas de QA
 
-Gerar e abrir relatório Allure:
-
-npm run allure:generate
-npm run allure:open
-
-
+Mesmo com dificuldades na execução do emulador e do Appium, toda a arquitetura e estrutura do projeto já está pronta para rodar.
