@@ -113,12 +113,6 @@ O conjunto de testes cobre:
 
 ---
 
-## ▶️ Como Rodar o Projeto (quando ambiente estiver configurado)
-
-> *Obs: o ambiente Android + Appium ainda está sendo finalizado.*
-
-
-
 🤝 Sobre este projeto
 
 Projeto criado com foco em aprendizado, evolução técnica e demonstração de capacidade em:
@@ -132,3 +126,4 @@ Entregar documentação clara
 Seguir boas práticas de QA
 
 Mesmo com dificuldades na execução do emulador e do Appium, toda a arquitetura e estrutura do projeto já está pronta para rodar.
+
