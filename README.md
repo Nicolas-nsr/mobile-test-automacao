@@ -70,7 +70,7 @@ automacao-mobile/
 | **Appium** | Automação mobile nativa |
 | **Mocha** | Test runner |
 | **Chai** | Asserts |
-| **Allure Reports** | Relatórios avançados |
+| **Allure Reports(Planejado)** | Relatórios avançados |
 | **GitHub Actions (Planejado)** | Pipeline CI/CD |
 | **BrowserStack (Opcional)** | Execução em nuvem |
 
@@ -126,4 +126,5 @@ Entregar documentação clara
 Seguir boas práticas de QA
 
 Mesmo com dificuldades na execução do emulador e do Appium, toda a arquitetura e estrutura do projeto já está pronta para rodar.
+
 
